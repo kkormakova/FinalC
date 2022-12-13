@@ -1,0 +1,15 @@
+/Users/k.kormakova/Documents/FinalC#/Task/bin/Debug/net6.0/Task
+/Users/k.kormakova/Documents/FinalC#/Task/bin/Debug/net6.0/Task.deps.json
+/Users/k.kormakova/Documents/FinalC#/Task/bin/Debug/net6.0/Task.runtimeconfig.json
+/Users/k.kormakova/Documents/FinalC#/Task/bin/Debug/net6.0/Task.dll
+/Users/k.kormakova/Documents/FinalC#/Task/bin/Debug/net6.0/Task.pdb
+/Users/k.kormakova/Documents/FinalC#/Task/obj/Debug/net6.0/Task.csproj.AssemblyReference.cache
+/Users/k.kormakova/Documents/FinalC#/Task/obj/Debug/net6.0/Task.GeneratedMSBuildEditorConfig.editorconfig
+/Users/k.kormakova/Documents/FinalC#/Task/obj/Debug/net6.0/Task.AssemblyInfoInputs.cache
+/Users/k.kormakova/Documents/FinalC#/Task/obj/Debug/net6.0/Task.AssemblyInfo.cs
+/Users/k.kormakova/Documents/FinalC#/Task/obj/Debug/net6.0/Task.csproj.CoreCompileInputs.cache
+/Users/k.kormakova/Documents/FinalC#/Task/obj/Debug/net6.0/Task.dll
+/Users/k.kormakova/Documents/FinalC#/Task/obj/Debug/net6.0/refint/Task.dll
+/Users/k.kormakova/Documents/FinalC#/Task/obj/Debug/net6.0/Task.pdb
+/Users/k.kormakova/Documents/FinalC#/Task/obj/Debug/net6.0/Task.genruntimeconfig.cache
+/Users/k.kormakova/Documents/FinalC#/Task/obj/Debug/net6.0/ref/Task.dll
